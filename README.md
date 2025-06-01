@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElPicaronCL
 - 👀 I’m interested in Modding Games and Designing them.
 - 🌱 I’m currently learning Full Stack Coding
-- 💞️ I’m looking to collaborate on TCC (Transport Community Chile)
+- 💞️ I’m currently doing a port of Project Eagle
 - 📫 How to reach me
     - Discord: @elpicaroncl
 - 😄 Pronouns: he/him
