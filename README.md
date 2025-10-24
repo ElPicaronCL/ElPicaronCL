@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElPicaronCL
 - 👀 I’m interested in Modding Games and Designing them.
-- 🌱 I’m currently learning Full Stack Coding
-- 💞️ I’m currently doing a port of Project Eagle
+- 🌱 I’m currently learning C/C++
+- 💞️ I’m currentlyworking on SIGMA 
 - 📫 How to reach me
     - Discord: @elpicaroncl
 - 😄 Pronouns: he/him
