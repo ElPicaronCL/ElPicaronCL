@@ -2,8 +2,8 @@ Hi, I’m Sebastian Tapia Moya (18yo/Chilean/Male/Bi), known in the Internet as 
 - Pronouns: he/him
 - Languages: English/Spanish
 I’m interested in Modding and Designing Games 
-- I’m currently learning PL/SQL & Python
-- I am currently studying in DUOC UC
+- I'm currently studying IT in DUOC UC
+    - Learning PL/SQL & Python
 - I’m also currently working on SIGMA, a 3D Open World Thriller game inspired by Santiago de Chile's Metro during the late 70's 
 How to reach me:
     - Discord: @elpicaroncl
