@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElPicaronCL
 - 👀 I’m interested in Modding Games and Designing them.
 - 🌱 I’m currently learning C/C++
-- 💞️ I’m currentlyworking on SIGMA 
+- 💞️ I’m currently working on SIGMA, a 3D Open World Thriller game inspired by Santiago de Chile's Metro during the late 70's 
 - 📫 How to reach me
     - Discord: @elpicaroncl
 - 😄 Pronouns: he/him
