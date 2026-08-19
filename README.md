@@ -1,10 +1,13 @@
 Hi, I’m Sebastian Tapia Moya (18yo/Chilean/Male/Bi), known in the Internet as @ElPicaronCL
 - Pronouns: he/him
 - Languages: English/Spanish
+
 - I'm currently studying IT in DUOC UC
     - Learning PL/SQL & Python
-- I’m also interested in modding and designing videogames, currently working on SIGMA, a 3D Open World Thriller game inspired by Santiago de Chile's Metro during the late 70's 
-How to reach me:
+
+- I’m also interested in modding and designing videogames, currently working on SIGMA, a 3D Open World Thriller game inspired by Santiago de Chile's Metro during the late 70's
+
+- How to reach me:
     - Discord: @elpicaroncl
     - X: Soon™️
     - Bluesky: Soon™️
